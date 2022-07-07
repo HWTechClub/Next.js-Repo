@@ -2,6 +2,7 @@
   - [Node.js](#nodejs)
   - [Browser](#browser)
   - [Visual Studio Code (VSCode)](#visual-studio-code-vscode)
+    - [Next.js Extension Pack](#nextjs-extension-pack)
 - [Creating your first Next.js app](#creating-your-first-nextjs-app)
   - [Chosing how to style your app](#chosing-how-to-style-your-app)
     - [Material-UI](#material-ui)
@@ -57,11 +58,8 @@ Recommended extensions:
 -   [**Material-UI Snippets**](https://marketplace.visualstudio.com/items?itemName=vscodeshift.material-ui-snippets): *Snippets for Material-UI*
 -   [ES7 React/Redux/React-Native/JS Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets "https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets"): *Snippets for creating react components and much more*
 
-All the extensions above can be installed together in a single command by downloading the `GDSC-nextjs-0.0.1.vsix` file from the repository and running the following line in the command prompt:
-
-```bash
-code --install-extension GDSC-nextjs-0.0.1.vsix
-```
+All the extensions above can be installed all at once by adding the following extension pack: 
+### [Next.js Extension Pack](https://marketplace.visualstudio.com/items?itemName=gaurav-gosain.GDSC-nextjs)
 
 ---
 
