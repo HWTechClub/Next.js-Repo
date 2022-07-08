@@ -1,4 +1,16 @@
-# Next.js
+<div align="center">
+  <h1>Next.js Series</h1>
+  <h2>Code your Own Web App</h2>
+  <img alt="Next.js Badge" title="React Framework by Vercel" src="https://img.shields.io/badge/Next.js-informational?style=flat-sqaure&logo=next.js&logoColor=white&color=000000">
+  <img alt="React" title="JavaScript Framework" src="https://img.shields.io/badge/React-informational?style=flat-sqaure&logo=react&logoColor=black&color=61DAFB">
+</div>
+<br>
+
+This repository is a reference as part of the **[Coding your own Web App](https://youtube.com/playlist?list=PLYlB334TcbXGVBqG-7m_udB-QTWQXYCf8)** Series by Gaurav Gosain.
+
+To know more about the steps to setup your system, you can check out the [steps.md](steps.md) file to know more.
+
+---
 
 ## Session 1
 
