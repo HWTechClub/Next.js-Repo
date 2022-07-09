@@ -49,12 +49,16 @@ Please install any browser of your choice. (Preferably any chromium-browser)
 
 [React Developer Tools - Chrome Web Store (google.com)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
-## Visual Studio Code (VSCode)
+## Visual Studio Code (VS Code)
 
 [Setting up Visual Studio Code](https://code.visualstudio.com/docs/setup/setup-overview)
 
 
-Recommended extensions:
+### Recommended extensions:
+All the extensions above can be installed all at once by adding the following extension pack: 
+### [Next.js Extension Pack](https://marketplace.visualstudio.com/items?itemName=gaurav-gosain.GDSC-nextjs)
+
+The list of extensions are also listed below incase you wish to download certain ones only.
 
 -   [**Auto Close Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag"): *Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text*
 -   [**Auto Rename Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag"): *Auto rename paired HTML/XML tag*
@@ -73,9 +77,6 @@ Recommended extensions:
 -   [**Toggle Quotes**](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes "https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes"): *`cmd '` (`ctrl '` on win/linux) will cycle the first quote pair found*
 -   [**Material-UI Snippets**](https://marketplace.visualstudio.com/items?itemName=vscodeshift.material-ui-snippets): *Snippets for Material-UI*
 -   [ES7 React/Redux/React-Native/JS Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets "https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets"): *Snippets for creating react components and much more*
-
-All the extensions above can be installed all at once by adding the following extension pack: 
-### [Next.js Extension Pack](https://marketplace.visualstudio.com/items?itemName=gaurav-gosain.GDSC-nextjs)
 
 ---
 
