@@ -45,8 +45,10 @@ npm -v
 
 ## Browser
 
-Please install any browser of your choice. (Preferably any chromium-browser)
+You can use any browser of your choice.<br>
+(Preferably a [Chromium](https://www.chromium.org/Home/)-based browser i.e. [Google Chrome](https://www.google.com/chrome/), [Microsoft Edge](https://www.microsoft.com/en-us/edge), [Opera](https://www.opera.com/), [Brave](https://brave.com/), etc.)
 
+It is recommended to download the React Developer Tools extension
 [React Developer Tools - Chrome Web Store (google.com)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
 ## Visual Studio Code (VS Code)
