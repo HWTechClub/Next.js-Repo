@@ -36,7 +36,7 @@ To know more about the steps to setup your system, you can check out the [steps.
 
 [Download | Node.js (nodejs.org)](https://nodejs.org/en/download/)
 
-Verify the installation of node and npm on your system by running the following command:
+**Verify** the installation of node and npm on your system by running the following commands in your terminal:
 
 ```bash
 node -v
