@@ -14,7 +14,7 @@ To know more about the steps to setup the necessary stuff for the session, you c
 
 ---
 
-## Session 1
+# Index
 
 - [Setting up the coding environment](#setting-up-the-coding-environment)
   - [Node.js](#nodejs)
@@ -28,6 +28,10 @@ To know more about the steps to setup the necessary stuff for the session, you c
     - [Tailwind CSS](#tailwind-css)
   - [Choosing a backend (Database)](#choosing-a-backend-database)
 
+(More details on how to setup your Next.js app in the [**steps.md**](steps.md) file)
+
+
+---
 # Setting up the coding environment
 
 ## Node.js
