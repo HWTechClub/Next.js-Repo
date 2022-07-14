@@ -6,7 +6,9 @@
 </div>
 <br>
 
-This repository is a reference as part of the **[Coding your own Web App](https://youtube.com/playlist?list=PLYlB334TcbXGVBqG-7m_udB-QTWQXYCf8)** Series by Gaurav Gosain.
+This repository is a reference as part of the **[Coding your own Web App](https://youtube.com/playlist?list=PLYlB334TcbXGVBqG-7m_udB-QTWQXYCf8)** Series.
+
+Where you will be creating your very own Web App using Next.js (React Framework by Vercel), a server-side React (JavaScript framework) framework.
 
 To know more about the steps to setup your system, you can check out the [steps.md](steps.md) file to know more.
 
