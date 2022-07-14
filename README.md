@@ -10,7 +10,7 @@ This repository is a reference as part of the **[Coding your own Web App](https:
 
 Where you will be creating your very own Web App using Next.js (React Framework by Vercel), a server-side React (JavaScript framework) framework.
 
-To know more about the steps to setup your system, you can check out the [steps.md](steps.md) file to know more.
+To know more about the steps to setup the necessary stuff for the session, you can check out the [**steps.md**](steps.md) file to know more.
 
 ---
 
