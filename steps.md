@@ -94,7 +94,7 @@ npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
 
 ### Tailwind CSS
 
-Tailwind CSS is a utility-first CSS framework for styled-components.
+**Tailwind CSS** is a utility-first CSS framework for styled-components.
 
 To add Tailwind CSS to your project, run the following command:
 
@@ -108,7 +108,8 @@ Initialize Tailwind CSS by running the following command:
 npx tailwindcss init -p
 ```
 
-Initializing tailwindcss will create a `tailwind.config.js` file in your project. By default, Tailwind CSS will watch only html files in your project. You can extend the default configuration by adding your own customizations to the `tailwind.config.js` file and editing the `content` property like so:
+Initializing tailwindcss will create a `tailwind.config.js` file in your project. By default, Tailwind CSS will watch only html files in your project.<br>
+You can extend the default configuration by adding your own customizations to the `tailwind.config.js` file and editing the `content` property like so:
 
 ```js
 module.exports = {
@@ -134,7 +135,8 @@ Finally, add the following Taiwind directives to your CSS file:
 
 ---
 
-> If you are a beginner, using Material-UI is a good starting point. For more advanced use cases where more control is needed, Tailwind CSS is a good option.
+> If you are a beginner, using **Material-UI** is a good starting point.<br>
+For more advanced use cases where more control is needed, **Tailwind CSS** is a good option.
 
 ---
 
@@ -154,7 +156,8 @@ A few popular databases/backend solutions are:
 
 And many many more.
 
-Firebase is a good place to start. Firebase is commonly referred to as "Backend as a Service" (BaaS). Firebase provides you with virtually everything you need to build a backend for your app from user authentication, storage, and realtime database. It automatically scales to meet your needs and has a very generous free plan.
+**Firebase** is a good place to start. Firebase is commonly referred to as "**B**ackend **a**s **a** **S**ervice" (BaaS).<br>
+Firebase provides you with virtually everything you need to build a backend for your app from user authentication, storage, and realtime database. It automatically scales to meet your needs and has a very generous free plan.
 
 
 Thats it! You can now start building your app.
