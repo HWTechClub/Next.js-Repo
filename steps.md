@@ -84,9 +84,9 @@ Two popular ways to style your app are by using:
 
 ### Material-UI
 
-Material-UI is a React UI library for building user interfaces.
+**Material-UI** is a React UI library for building user interfaces.
 
-You can add Material-UI and Material Icons to your project by running the following command:
+You can add Material-UI and [Material Icons](https://fonts.google.com/icons?icon.set=Material+Icons) to your project by running the following command:
 
 ```bash
 npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
