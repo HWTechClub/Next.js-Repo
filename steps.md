@@ -75,9 +75,12 @@ npx create-next-app <app-name>
 
 Replacing `<app-name>` with the name of your app.
 
-## Chosing how to style your app
+## Choosing how to style your app
 
-Two popular ways to style your app are:
+Two popular ways to style your app are by using:
+
+- [Material UI](#material-ui)
+- [Tailwind CSS](#tailwind-css)
 
 ### Material-UI
 
