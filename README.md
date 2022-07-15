@@ -59,7 +59,7 @@ It is recommended to download the [**React Developer Tools** Chrome Extension](h
 
 
 ### Recommended extensions:
-All the extensions above can be installed all at once by adding the following extension pack: 
+All the extensions above can be installed all at once by adding the following [extension pack](https://marketplace.visualstudio.com/items?itemName=gaurav-gosain.GDSC-nextjs): 
 ### [Next.js Extension Pack](https://marketplace.visualstudio.com/items?itemName=gaurav-gosain.GDSC-nextjs)
 
 The list of extensions are also listed below incase you wish to download certain ones only.
