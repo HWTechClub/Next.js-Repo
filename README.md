@@ -22,11 +22,6 @@ To know more about the steps to setup the necessary stuff for the session, you c
   - [Visual Studio Code (VS Code)](#visual-studio-code-vs-code)
     - [Recommended extensions:](#recommended-extensions)
     - [Next.js Extension Pack](#nextjs-extension-pack)
-- [Creating your first Next.js app](#creating-your-first-nextjs-app)
-  - [Chosing how to style your app](#chosing-how-to-style-your-app)
-    - [Material-UI](#material-ui)
-    - [Tailwind CSS](#tailwind-css)
-  - [Choosing a backend (Database)](#choosing-a-backend-database)
 
 (More details on how to setup your Next.js app in the [**steps.md**](steps.md) file)
 
