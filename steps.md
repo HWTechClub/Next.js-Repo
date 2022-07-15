@@ -2,9 +2,9 @@
 
 **NOTE:** Make sure that you have [**setup your coding environment**](README.md#setting-up-the-coding-environment) before following the steps below.
   - [Visual Studio Code (VSCode)](#visual-studio-code-vscode)
-    - [Next.js Extension Pack](#nextjs-extension-pack)
+# Index
 - [Creating your first Next.js app](#creating-your-first-nextjs-app)
-  - [Chosing how to style your app](#chosing-how-to-style-your-app)
+  - [Choosing how to style your app](#choosing-how-to-style-your-app)
     - [Material-UI](#material-ui)
     - [Tailwind CSS](#tailwind-css)
   - [Choosing a backend (Database)](#choosing-a-backend-database)
