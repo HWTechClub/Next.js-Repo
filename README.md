@@ -83,4 +83,11 @@ The list of extensions are also listed below incase you wish to download certain
 -   [ES7 React/Redux/React-Native/JS Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets "https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets"): *Snippets for creating react components and much more*
 
 ---
+## Setting up your Web App:
+(More details in the [**steps.md**](steps.md) file)
 
+- [Creating your first Next.js App](steps.md#creating-your-first-nextjs-app)
+  - [Choosing how to style your app](steps.md#choosing-how-to-style-your-app)
+    - [Material UI](steps.md#material-ui)
+    - [Tailwind CSS](steps.md#tailwind-css)
+  - [Choosing a backend (Database)](steps.md#choosing-a-backend-database)
