@@ -1,6 +1,6 @@
-- [Setting up the coding environment](#setting-up-the-coding-environment)
-  - [Node.js](#nodejs)
-  - [Browser](#browser)
+# Steps to setup Next.js App
+
+**NOTE:** Make sure that you have [**setup your coding environment**](README.md#setting-up-the-coding-environment) before following the steps below.
   - [Visual Studio Code (VSCode)](#visual-studio-code-vscode)
     - [Next.js Extension Pack](#nextjs-extension-pack)
 - [Creating your first Next.js app](#creating-your-first-nextjs-app)
