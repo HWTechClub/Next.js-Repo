@@ -1,7 +1,13 @@
+<!-- omit from toc -->
 # Steps to setup Next.js App
 
 **NOTE:** Make sure that you have [**setup your coding environment**](README.md#setting-up-the-coding-environment) before following the steps below.
 
+💡 Alternatively, you can also easily setup your environment using [GitHub Codespaces](https://github.com/features/codespaces) to setup your environment in seconds and get going.
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=511237834)
+
+<!-- omit from toc -->
 # Index
 - [Creating your first Next.js app](#creating-your-first-nextjs-app)
   - [Choosing how to style your app](#choosing-how-to-style-your-app)

@@ -6,6 +6,8 @@
 </div>
 <br>
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=511237834)
+
 This repository is a reference as part of the **[Coding your own Web App](https://youtube.com/playlist?list=PLYlB334TcbXGVBqG-7m_udB-QTWQXYCf8)** Series.
 
 Where you will be creating your very own Web App using Next.js (React Framework by Vercel), a server-side React (JavaScript framework) framework.
@@ -14,6 +16,7 @@ To know more about the steps to setup the necessary stuff for the session, you c
 
 ---
 
+<!-- omit from toc -->
 # Index
 
 - [Setting up the coding environment](#setting-up-the-coding-environment)
@@ -22,6 +25,7 @@ To know more about the steps to setup the necessary stuff for the session, you c
   - [Visual Studio Code (VS Code)](#visual-studio-code-vs-code)
     - [Recommended extensions:](#recommended-extensions)
     - [Next.js Extension Pack](#nextjs-extension-pack)
+  - [Setting up your Web App:](#setting-up-your-web-app)
 
 (More details on how to setup your Next.js app in the [**steps.md**](steps.md) file)
 
@@ -59,7 +63,7 @@ It is recommended to download the [**React Developer Tools** Chrome Extension](h
 
 
 ### Recommended extensions:
-All the extensions above can be installed all at once by adding the following [extension pack](https://marketplace.visualstudio.com/items?itemName=gaurav-gosain.GDSC-nextjs): 
+All the extensions above can be installed all at once by adding the following [extension pack](https://marketplace.visualstudio.com/items?itemName=gaurav-gosain.GDSC-nextjs):
 ### [Next.js Extension Pack](https://marketplace.visualstudio.com/items?itemName=gaurav-gosain.GDSC-nextjs)
 
 The list of extensions are also listed below incase you wish to download certain ones only.
