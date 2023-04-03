@@ -7,7 +7,7 @@
 			"extensions": [
 				// Key Extension Pack Required
 				"gaurav-gosain.GDSC-nextjs",
-				// Icon Pack
+				// Miscellaneous Extensions
 				"VisualStudioExptTeam.vscodeintellicode",
 				"VisualStudioExptTeam.intellicode-api-usage-examples",
 				"ms-vscode-remote.remote-containers",
