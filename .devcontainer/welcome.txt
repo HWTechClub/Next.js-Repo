@@ -1,0 +1,10 @@
+💻 Welcome to the Coding your Web App using Next.js
+
+We will be using this base repository throughout the series of videos provided in the README.md file.
+
+You can start off with creating your Next.js app by entering the entering the command: npx create-next-app <app-name>
+Replacing <app-name> with the name of your app.
+
+Once that is done, you are now ready to create your own app.
+
+For the YouTube series, do follow this video: https://youtube.com/playlist?list=PLYlB334TcbXGVBqG-7m_udB-QTWQXYCf8

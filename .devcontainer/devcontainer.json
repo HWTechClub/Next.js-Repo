@@ -1,0 +1,32 @@
+{
+	"image":"mcr.microsoft.com/devcontainers/universal:2",
+	// TODO Figure out a way to change the Welcome terminal text
+	// "postCreateCommand": "sudo cp .devcontainer/welcome.txt /workspaces/.codespaces/shared/first-run-notice.txt",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				// Key Extension Pack Required
+				"gaurav-gosain.GDSC-nextjs",
+				// Icon Pack
+				"VisualStudioExptTeam.vscodeintellicode",
+				"VisualStudioExptTeam.intellicode-api-usage-examples",
+				"ms-vscode-remote.remote-containers",
+				// Markdown
+				"yzhang.markdown-all-in-one",
+				"bierner.github-markdown-preview",
+				// Icon Pack
+				"vscode-icons-team.vscode-icons"
+			],
+
+			"settings": {
+				"workbench.iconTheme": "vscode-icons",
+				"editor.bracketPairColorization.enabled": true,
+				"editor.minimap.scale": 2,
+				"editor.indentSize": "tabSize",
+				"editor.tabSize": 4,
+				"editor.renderWhitespace": "all",
+				"files.trimTrailingWhitespace": true,
+			}
+		}
+	}
+}
