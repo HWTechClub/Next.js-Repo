@@ -17,22 +17,10 @@
 				"bierner.github-markdown-preview",
 				// Icon Pack
 				"vscode-icons-team.vscode-icons"
-			],
-
-			"settings": {
-				"workbench.iconTheme": "vscode-icons",
-				"editor.bracketPairColorization.enabled": true,
-				"editor.minimap.scale": 2,
-				"editor.indentSize": "tabSize",
-				"editor.tabSize": 4,
-				"editor.renderWhitespace": "all",
-				"files.trimTrailingWhitespace": true,
-			}
+			]
 		},
 		"codespaces": {
-			"openFiles": [
-				"README.md"
-			]
+			"openFiles": ["README.md"]
 		}
 	}
 }
